@@ -3,9 +3,10 @@ layout: about
 title: About
 ---
 
-## About
-### Welcome to my Website,
-I am excited to learn something new everyday.
+
+### Welcome to my Website
+
+I am a Front-End Web Developer. I graduated from Front-End web Development Bootcamp at [re-coded](httpa://re-coded.com). I am excited to learn something new everyday. <br>
 Being a devoloper requires doing research
 frequently. I participate to bootcamps to learn
 from different people and my learning path is
